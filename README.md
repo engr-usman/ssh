@@ -1,1 +1,3 @@
-curl https://raw.githubusercontent.com/engr-usman/ssh/main/pub >> ~/.ssh/authorized_keys
+# SSH Public Key
+
+## curl https://raw.githubusercontent.com/engr-usman/ssh/main/pub >> ~/.ssh/authorized_keys
